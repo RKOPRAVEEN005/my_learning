@@ -31,3 +31,14 @@ a = 6
 b = 8
 c = a**b
 print(c)
+
+# swapping  of tow variable
+x = 20
+y = 30
+# swapping tow variable
+ # using third variable
+temp = x
+x = y
+y = temp
+print ("value of x:",x)
+print ("value of y:",y)
