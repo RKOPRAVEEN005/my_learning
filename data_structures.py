@@ -15,4 +15,10 @@ c = a*b
 
 print(c)
 
+# divide tow numbers
+a = 15
+b = 16
+c = a/b
+print(c)
+
 
