@@ -15,24 +15,24 @@ c = a*b
 
 print(c)
 
-# divide tow numbers
+# divide two numbers
 a = 15
 b = 16
 c = a/b
 print(c)
-# subtract tow numbers
+# subtract two numbers
 a = 16
 b = 18
 c = a-b
 print (c)
 
-# square tow number
+# square two number
 a = 6
 b = 8
 c = a**b
 print(c)
 
-# swapping  of tow variable
+# swapping  of two variable
 x = 20
 y = 30
 # swapping tow variable
