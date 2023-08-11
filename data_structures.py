@@ -6,3 +6,13 @@ print(list)
 sample_list = [1,2,3]
 for i in sample_list:
     print(i)
+
+# multiply two numbers
+
+a = 10
+b = 10
+c = a*b
+
+print(c)
+
+
