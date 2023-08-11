@@ -20,5 +20,9 @@ a = 15
 b = 16
 c = a/b
 print(c)
-
+# subtract tow numbers
+a = 16
+b = 18
+c = a-b
+print (c)
 
