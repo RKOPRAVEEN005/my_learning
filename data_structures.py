@@ -52,4 +52,8 @@ mm = 2   # month
 # display the calandar
 print(calendar. month(yy ,mm))
 
-
+x = 15
+y = 10
+x,y =y ,x
+print("value of x:",x)
+print("value of y:",y)
