@@ -19,7 +19,7 @@ print(c)
 a = 15
 b = 16
 c = a/b
-print(c)
+print (c)
 # subtract two numbers
 a = 16
 b = 18
@@ -42,4 +42,9 @@ x = y
 y = temp
 print ("value of x:",x)
 print ("value of y:",y)
+
+for a in range(1,11):
+        print("o" * a)
+
+
 
