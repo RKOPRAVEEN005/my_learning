@@ -46,5 +46,10 @@ print ("value of y:",y)
 for a in range(1,11):
         print("o" * a)
 
+import calendar
+yy = 2024 # year
+mm = 2   # month
+# display the calandar
+print(calendar. month(yy ,mm))
 
 
