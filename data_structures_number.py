@@ -14,7 +14,7 @@ var_3 = 1
 print(var_3)
 print(id(var_3))
 
-# how to find type of a number?
+# how to find type of a number ?
 
 print(type(1))
 print(type(1.1))
