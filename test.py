@@ -13,3 +13,12 @@ try:
  num[2]=1
 except Exception as error:
  print("number is immutable")
+
+
+
+num=10
+try:
+ for i in 10:
+  print(i)
+except:
+  print("python is non iterable")
