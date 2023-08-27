@@ -22,3 +22,12 @@ try:
   print(i)
 except:
   print("python is non iterable")
+#
+
+  var_4=10
+  var_4[2]=9
+  print(var_4)
+
+#
+example_set={1,2,3,3,4,5,5}
+print(example_set)
