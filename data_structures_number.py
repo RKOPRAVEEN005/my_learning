@@ -36,6 +36,7 @@ except Exception as error:
     print('error from iterable or not? ' + str(error))
 
 
-
+var_4=10
+print(var_4[1])
 
 
