@@ -31,7 +31,15 @@ except:
 #
 example_set={1,2,3,3,4,5,5}
 print(example_set)
+#
 
-sample_list=[
+var_1=1
+print(var_4)
+print(id(var_4))
+#
+var_1=1
+print(var_1)
+print(id(var_1))
 
-]
+
+
