@@ -46,3 +46,26 @@ print('senthil'.split('t'))
 
 
 
+
+<!doctype html>
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+Content goes here.
+</body>
+</html>
+
+
+from flask import Flask
+app=Flask(__name__)
+app.route('/')
+def totorial():
+ return Tutorial('index.html')
+if __name__== 'main':
+ app.run()
+
+
