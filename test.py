@@ -22,7 +22,6 @@ def display_menu():
 
 def main():
     task_manager = TaskManager()
-
     while True:
         display_menu()
         choice = input("Enter your choice (1-6): ")
