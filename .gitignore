@@ -1,4 +1,4 @@
-.idea/*
-.ipynb_checkpoints/*
-.venv/*
-.vs/*
+.idea/
+.ipynb_checkpoints/
+.venv/
+.vs
